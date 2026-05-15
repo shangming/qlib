@@ -1,0 +1,7 @@
+baostock
+fire
+joblib
+loguru
+numpy
+pandas
+tqdm
